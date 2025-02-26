@@ -6,7 +6,7 @@
 #    By: mstasiak <mstasiak@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/02/26 12:32:07 by mstasiak          #+#    #+#              #
-#    Updated: 2025/02/26 17:35:31 by mstasiak         ###   ########.fr        #
+#    Updated: 2025/02/26 17:41:51 by mstasiak         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -19,7 +19,7 @@ from datetime import datetime, timedelta
 
 github_username = "Maxstasia"
 github_repo = "Maxstasia"
-github_token = os.getenv("GH_PATH")
+github_token = os.getenv("GH_PATH") or os.getenv("GH_PAT") or os.getenv("GITHUB_TOKEN")
 if not github_token:
     raise ValueError("GH_PATH n'est pas défini. Assurez-vous qu'il est configuré dans les secrets GitHub Actions.")
 

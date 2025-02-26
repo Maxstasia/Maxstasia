@@ -40,56 +40,53 @@
 
 <!--Projects-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-<div align="center">
+<p align="center">
 	<img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width = 35px>
 	<a href="https://git.io/typing-svg">
 		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&background=1B4BFF00&center=true&vCenter=true&random=false&width=200&height=50&lines=Projects" alt="Typing SVG" />
 	</a>
 	<img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width = 35px>
-</div>
+</p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
-<div style="display: flex; justify-content: space-around; align-items: flex-start; padding: 20px;">
-	<!-- Left Side: 42 Projects -->
-	<div style="width: 45%; background-color: #1b1b1b; padding: 15px; border-radius: 10px; text-align: center;">
-		<p>**42 Projects**</p>
-		<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-		<!-- In Progress Projects -->
-		<p>*In Progress*</p>
-		<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-			<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/pipex"><img src="https://github.com/maxstasia/maxstasia/blob/main/42_badges/pipexn.png" alt="CPP Badge" width="120"></a>
-		</div>
-		<!-- Finished Projects -->
-		<p>*Finished*</p>
-		<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-			<a href="https://github.com/Maxstasia/tree/main/Libft"><img src="https://github.com/Maxstasia/Maxstasia/blob/main/42_badges/libfte.png" alt="Libft Badge" width="120"></a>
-			<a href="https://github.com/Maxstasia/tree/main/ft_printf"><img src="https://github.com/Maxstasia/Maxstasia/blob/main/42_badges/ft_printfe.png" alt="Ft_Printf Badge" width="120"></a>
-			<a href="https://github.com/Maxstasia/tree/main/get_next_line"><img src="https://github.com/Maxstasia/Maxstasia/blob/main/42_badges/get_next_linem.png" alt="Get Next Line Badge" width="120"></a>
-			<a href="https://github.com/Maxstasia/tree/main/Born2beRoot"><img src="https://github.com/Maxstasia/Maxstasia/blob/main/42_badges/born2beroote.png" alt="Born2BeRoot Badge" width="120"></a>
-			<a href="https://github.com/Maxstasia/tree/main/fractol"><img src="https://github.com/Maxstasia/Maxstasia/blob/main/42_badges/fract-olm.png" alt="Fractol Badge" width="120"></a>
-			<a href="https://github.com/Maxstasia/tree/main/push_swap"><img src="https://github.com/Maxstasia/Maxstasia/blob/main/42_badges/push_swape.png" alt="Push_Swap Badge" width="120"></a>
-		</div>
-	</div>
-	<br><br>
-	<!-- Right Side: External Projects -->
-	<div style="width: 45%; background-color: #1b1b1b; padding: 15px; border-radius: 10px; text-align: center;">
-		<p>**External Projects**</p>
-		<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-		<div style="display: flex; justify-content: center; align-items: center; height: 100px;">
-			<p>*Coming Soon*</p>
-		</div>
-	</div>
+**42 Projects**
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+<!-- In Progress Projects -->
+
+*In Progress*
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/pipex"><img src="https://github.com/maxstasia/maxstasia/blob/main/42_badges/pipexn.png" alt="CPP Badge" width="120"></a>
 </div>
+<!-- Finished Projects -->
+
+*Finished*
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+	<a href="https://github.com/Maxstasia/tree/main/Libft"><img src="https://github.com/Maxstasia/Maxstasia/blob/main/42_badges/libfte.png" alt="Libft Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/tree/main/ft_printf"><img src="https://github.com/Maxstasia/Maxstasia/blob/main/42_badges/ft_printfe.png" alt="Ft_Printf Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/tree/main/get_next_line"><img src="https://github.com/Maxstasia/Maxstasia/blob/main/42_badges/get_next_linem.png" alt="Get Next Line Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/tree/main/Born2beRoot"><img src="https://github.com/Maxstasia/Maxstasia/blob/main/42_badges/born2beroote.png" alt="Born2BeRoot Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/tree/main/fractol"><img src="https://github.com/Maxstasia/Maxstasia/blob/main/42_badges/fract-olm.png" alt="Fractol Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/tree/main/push_swap"><img src="https://github.com/Maxstasia/Maxstasia/blob/main/42_badges/push_swape.png" alt="Push_Swap Badge" width="120"></a>
+</div>
+<br>
+<!--External Projects-->
+
+**External Projects**
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+
+*Coming Soon*
 <br>
 
 
 <!--GitHub stats-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 35px>
-<a href="https://git.io/typing-svg">
-	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=190&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=165&height=30&lines=Github+stats" alt="Typing SVG" />
-</a>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 35px>
+<p align="center">
+	<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 35px>
+	<a href="https://git.io/typing-svg">
+		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&background=1B4BFF00&center=true&vCenter=true&random=false&width=200&height=50&lines=Github+stats" alt="Typing SVG" />
+	</a>
+	<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 35px>
+</p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
 <p align="center">
@@ -106,14 +103,18 @@
 
 <!--Contact-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 35px>
-<a href="https://git.io/typing-svg">
-	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=190&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=165&height=30&lines=let%27s+contribute+together!&oq=let%27s+contribute+together!" alt="Typing SVG" />
-</a>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 35px>
+<p align="center">
+	<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 35px>
+	<a href="https://git.io/typing-svg">
+		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&background=1B4BFF00&center=true&vCenter=true&random=false&width=200&height=50&lines=lets+contribute+together!" alt="Typing SVG" />
+	</a>
+	<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 35px>
+</p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-Feel free to submit issues, PRs, or just contact me if you want to collaborate on a project. Together we can build amazing things. 🚀<br>
-<a href="stasiak.maxence@gmail.com">📧 Contact</a>
+Feel free to submit issues, or just contact me if you want to collaborate on a project. Together we can build amazing things. 🚀<br>
+<a href="stasiak.maxence@gmail.com" align="center">📧 Contact Me 📧</a>
+<br>
+
 
 <!--Page Stat-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
