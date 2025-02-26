@@ -1,6 +1,19 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    generate_commit_graph.py                           :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: mstasiak <mstasiak@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2025/02/26 12:32:07 by mstasiak          #+#    #+#              #
+#    Updated: 2025/02/26 14:44:35 by mstasiak         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
 import matplotlib.pyplot as plt
 import numpy as np
 import git
+from matplotlib import pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 from datetime import datetime
 
