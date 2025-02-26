@@ -6,7 +6,7 @@
 #    By: mstasiak <mstasiak@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/02/26 12:32:00 by mstasiak          #+#    #+#              #
-#    Updated: 2025/02/26 19:03:06 by mstasiak         ###   ########.fr        #
+#    Updated: 2025/02/26 19:08:17 by mstasiak         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -18,8 +18,8 @@ on:
   pull_request:
     branches: [ "main" ]
   schedule:
-    - cron: '0 0 * * *'  # Exécute le script chaque jour à minuit UTC
-  workflow_dispatch:  # Permet d'exécuter manuellement le workflow
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -35,12 +35,13 @@ jobs:
       - name: 🛠️ Cloner le dépôt principal
         uses: actions/checkout@v4
 
-      - name: 🛠️ Cloner le dépôt privé contenant le script
+      - name: 🔽 Télécharger le script depuis GitHub
         env:
-          GH_PAT: ${{ secrets.GH_PAT }}  # 🔒 Stocker ton token GitHub dans les Secrets
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
-          git clone https://x-access-token:${GH_PAT}@github.com/Maxstasia/Assets_Private.git private_repo
-          mv private_repo/generate_commit_graph.py .
+          curl -H "Authorization: token ${GH_PAT}" -H "Accept: application/vnd.github.v3.raw" \
+          -o generate_commit_graph.py \
+          https://raw.githubusercontent.com/Maxstasia/Assets_Private/main/generate_commit_graph.py
 
       - name: Set up Python ${{ matrix.python-version }}
         uses: actions/setup-python@v3
