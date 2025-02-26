@@ -4,9 +4,9 @@
 
 <!-- Heading -->
 <br>
-<p align="center" style="font-size: 32px">
+<p align="center">
 	<a href="https://git.io/typing-svg">
-		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=1000&color=D9F7F2&background=1B4BFF00&center=true&random=false&width=435&lines=Hi+there+!+I'm+Max+%F0%9F%91%8B%F0%9F%8F%BD;A+42+Paris+student+%F0%9F%A4%96;Bouh" alt="Typing SVG" />
+		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=1000&color=D9F7F2&background=1B4BFF00&center=true&random=false&width=500&lines=Hi+there+!+I'm+Max+%F0%9F%91%8B%F0%9F%8F%BD;A+42+Paris+student+%F0%9F%A4%96;Bouh" alt="Typing SVG" />
 	</a>
 </p>
 
@@ -19,19 +19,19 @@
 
 <!--Skills Section-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-<p align="center" style="font-size: 32px">
-	<img src = "https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Comet.png" width = 30px>
+<p align="center">
+	<img src = "https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Comet.png" width = 35px>
 	<a href="https://git.io/typing-svg">
-		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=190&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=165&height=42&lines=My+Skills" alt="Typing SVG" />
+		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=190&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=165&height=30&lines=My+Skills" alt="Typing SVG" />
 	</a>
-	<img src = "https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Comet.png" width = 30px>
+	<img src = "https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Comet.png" width = 35px>
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
 
 <div align="center">
 	<div style="display: inline-block; margin: 20px; padding: 15px; border: 3px solid #4caf50; border-radius: 10px; background-color: #1f1f1f; transition: transform 0.3s;">
-		<p style="font-size: 15px"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; Languages</p>
+		<p style="font-size: 15px"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp;*Languages*</p>
 		<p align="center">
 			<a href="https://skillicons.dev">
 				<img src="https://skillicons.dev/icons?i=c,cpp,python" height="50" alt="Languages" />
@@ -40,7 +40,7 @@
 		<p><em>Mastering core languages like C, C++, Python.</em></p>
 	</div>
 	<div style="display: inline-block; margin: 20px; padding: 15px; border: 3px solid #ff5722; border-radius: 10px; background-color: #1f1f1f; transition: transform 0.3s;">
-		<p style="font-size: 15px"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp; Back-End</p>
+		<p style="font-size: 15px"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;*Back-End*</p>
 		<p align="center">
 			<a href="https://skillicons.dev">
 				<img src="https://skillicons.dev/icons?i=lua,java,discord,bots,ai" height="50" alt="Back-End" />
@@ -49,7 +49,7 @@
 		<p><em>Creating robust back-end systems.</em></p>
 	</div>
 	<div style="display: inline-block; margin: 20px; padding: 15px; border: 3px solid #ffc107; border-radius: 10px; background-color: #1f1f1f; transition: transform 0.3s;">
-		<p style="font-size: 15px">🛠️ Tools</p>
+		<p style="font-size: 15px">*🛠️ Tools*</p>
 		<p align="center">
 			<a href="https://skillicons.dev">
 				<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,neovim" height="50" alt="Tools" />
@@ -64,26 +64,26 @@
 <!--Projects-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <div align="center">
-	<img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width = 30px>
+	<img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width = 35px>
 	<a href="https://git.io/typing-svg">
 		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=190&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=165&height=30&lines=Projects" alt="Typing SVG" />
 	</a>
-	<img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width = 30px>
+	<img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width = 35px>
 </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start; padding: 20px;">
 	<!-- Left Side: 42 Projects -->
 	<div style="width: 45%; background-color: #1b1b1b; padding: 15px; border-radius: 10px; text-align: center;">
-		<p style="font-size: 20px">42 Projects</p>
+		<p style="font-size: 20px">**42 Projects**</p>
 		<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 		<!-- In Progress Projects -->
-		<p style="font-size: 15px">In Progress</p>
+		<p style="font-size: 15px">*In Progress*</p>
 		<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
 			<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/pipex"><img src="https://github.com/maxstasia/maxstasia/blob/main/42_badges/pipexn.png" alt="CPP Badge" width="120"></a>
 		</div>
 		<!-- Finished Projects -->
-		<p style="font-size: 15px">Finished</p>
+		<p style="font-size: 15px">*Finished*</p>
 		<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
 			<a href="https://github.com/Maxstasia/tree/main/Libft"><img src="https://github.com/Maxstasia/Maxstasia/blob/main/42_badges/libfte.png" alt="Libft Badge" width="120"></a>
 			<a href="https://github.com/Maxstasia/tree/main/ft_printf"><img src="https://github.com/Maxstasia/Maxstasia/blob/main/42_badges/ft_printfe.png" alt="Ft_Printf Badge" width="120"></a>
@@ -93,12 +93,13 @@
 			<a href="https://github.com/Maxstasia/tree/main/push_swap"><img src="https://github.com/Maxstasia/Maxstasia/blob/main/42_badges/push_swape.png" alt="Push_Swap Badge" width="120"></a>
 		</div>
 	</div>
+	<br><br>
 	<!-- Right Side: External Projects -->
 	<div style="width: 45%; background-color: #1b1b1b; padding: 15px; border-radius: 10px; text-align: center;">
-		<p style="font-size: 20px">External Projects</p>
+		<p style="font-size: 20px">**External Projects**</p>
 		<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 		<div style="display: flex; justify-content: center; align-items: center; height: 100px;">
-			<p style="font-size: 15px">Coming Soon</p>
+			<p style="font-size: 15px">*Coming Soon*</p>
 		</div>
 	</div>
 </div>
@@ -108,11 +109,11 @@
 <!--GitHub stats-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <div align="center">
-	<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+	<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 35px>
 	<a href="https://git.io/typing-svg">
 		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=190&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=165&height=30&lines=Github+stats" alt="Typing SVG" />
 	</a>
-	<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+	<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 35px>
 </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
@@ -120,7 +121,7 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=Maxstasia&show_icons=true&theme=radical" alt="Max's GitHub Stats" height="180em" style="margin-right: 30px;">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxstasia&theme=radical&layout=compact" alt="Langues les plus utilisées" height="180em">
 	<div style="width: 45%; background-color: #1b1b1b; padding: 15px; border-radius: 10px; text-align: center;">
-		<p style="font-size: 20px">📈 Statistiques de commits en 3D</p>
+		<p style="font-size: 20px">**📈 Statistiques de commits en 3D**</p>
 		<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 	</div>
 </p>
@@ -130,7 +131,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
 <!--Contact-->
-<p style="font-size: 15px" align="center">Let's contribute together!</p>
+<p style="font-size: 15px" align="center">*Let's contribute together!*</p>
 <p align="center">Feel free to submit issues, PRs, or just contact me if you want to collaborate on a project. Together we can build amazing things. 🚀</p>
 <p align="center">
 	<a href="stasiak.maxence@gmail.com">📧 Contact</a>
@@ -139,8 +140,8 @@
 <!--Page Stat-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
-	<img src="https://github.com/user-attachments/assets/3dcdd41e-3ba5-4ea2-8c0c-eee23b80f43b" width="30">
+	<img src="https://github.com/user-attachments/assets/3dcdd41e-3ba5-4ea2-8c0c-eee23b80f43b" width = 35px>
 	<img alt="visitors counter" src="https://profile-counter.glitch.me/Maxstasia/count.svg">
-	<img src="https://github.com/user-attachments/assets/3dcdd41e-3ba5-4ea2-8c0c-eee23b80f43b" width="30">
+	<img src="https://github.com/user-attachments/assets/3dcdd41e-3ba5-4ea2-8c0c-eee23b80f43b" width = 35px>
 </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
