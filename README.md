@@ -26,7 +26,7 @@
 
 <div align="center">
 	<div style="display: inline-block; margin: 20px; padding: 15px; border: 3px solid #4caf50; border-radius: 10px; background-color: #1f1f1f; transition: transform 0.3s;">
-	<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Languages***
+		<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp;Languages
 		<p align="center">
 			<a href="https://skillicons.dev">
 				<img src="https://skillicons.dev/icons?i=c,cpp,python" height="50" alt="Languages" />
@@ -35,7 +35,7 @@
 		<p><em>Mastering core languages like C, C++, Python.</em></p>
 	</div>
 	<div style="display: inline-block; margin: 20px; padding: 15px; border: 3px solid #ff5722; border-radius: 10px; background-color: #1f1f1f; transition: transform 0.3s;">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***Back-End***
+		<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;Back-End
 		<p align="center">
 			<a href="https://skillicons.dev">
 				<img src="https://skillicons.dev/icons?i=lua,java,discord,bots,ai" height="50" alt="Back-End" />
@@ -81,7 +81,7 @@
 			<a href="https://github.com/Maxstasia/tree/main/ft_printf"><img src="https://github.com/Maxstasia/Maxstasia/blob/main/42_badges/ft_printfe.png" alt="Ft_Printf Badge" width="120"></a>
 			<a href="https://github.com/Maxstasia/tree/main/get_next_line"><img src="https://github.com/Maxstasia/Maxstasia/blob/main/42_badges/get_next_linem.png" alt="Get Next Line Badge" width="120"></a>
 			<a href="https://github.com/Maxstasia/tree/main/Born2beRoot"><img src="https://github.com/Maxstasia/Maxstasia/blob/main/42_badges/born2beroote.png" alt="Born2BeRoot Badge" width="120"></a>
-			<a href="https://github.com/Maxstasia/tree/main/fractol"><img src="https://github.com/Maxstasia/Maxstasia/blob/main/42_badges/fractolm.png" alt="Fractol Badge" width="120"></a>
+			<a href="https://github.com/Maxstasia/tree/main/fractol"><img src="https://github.com/Maxstasia/Maxstasia/blob/main/42_badges/fract-olm.png" alt="Fractol Badge" width="120"></a>
 			<a href="https://github.com/Maxstasia/tree/main/push_swap"><img src="https://github.com/Maxstasia/Maxstasia/blob/main/42_badges/push_swape.png" alt="Push_Swap Badge" width="120"></a>
 		</div>
 	</div>
