@@ -1,0 +1,59 @@
+# This workflow will install Python dependencies, run tests and lint with a variety of Python versions
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    update_graph.yml                                   :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: mstasiak <mstasiak@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2025/02/26 12:32:00 by mstasiak          #+#    #+#              #
+#    Updated: 2025/02/26 14:45:45 by mstasiak         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+name: Update GitHub Commit Graph
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  schedule:
+    - cron: '0 0 * * *'  # Exécute le script chaque jour à minuit UTC
+  workflow_dispatch:  # Permet d'exécuter manuellement le workflow
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.9", "3.10", "3.11"]
+
+    steps:
+      - name: 🛠️ Cloner le dépôt
+        uses: actions/checkout@v4
+
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v3
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: 📦 Installer les dépendances
+        run: |
+          python -m pip install --upgrade pip
+          pip install gitpython requests numpy matplotlib
+
+      - name: 📝 Générer le graphique 3D
+        run: python3 generate_commit_graph.py
+
+      - name: 🚀 Commit et push de l'image
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add commit_graph.png
+          git commit -m "Mise à jour automatique du graphique des commits"
+          git push https://${GH_PAT}@github.com/${{ github.repository }}.git main
