@@ -1,5 +1,5 @@
 <!--Banner-->
-![banner](https://github.com/commit_graph.png)
+![banner](https://github.com/Maxstasia/Assets_private/animate_wallpaper.gif)
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <br>
 
