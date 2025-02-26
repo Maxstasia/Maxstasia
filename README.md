@@ -10,7 +10,6 @@
 		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=D9F7F2&background=1B4BFF00&center=true&random=false&width=500&lines=Hi+there+!+I'm+Max+%F0%9F%91%8B%F0%9F%8F%BD;A+42+Paris+student+%F0%9F%A4%96;Bouh" alt="Typing SVG" />
 	</a>
 </p>
-
 <p align="center">
 	<a href="https://42.fr" target="_blank">
 		<img src="https://img.shields.io/badge/Paris-4aeadc?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxOC4xLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIg0KCSBpZD0iQ2FscXVlXzEiIHNvZGlwb2RpOmRvY25hbWU9IjQyX2xvZ28uc3ZnIiBpbmtzY2FwZTp2ZXJzaW9uPSIwLjQ4LjIgcjk4MTkiIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyIgeG1sbnM6c3ZnPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6c29kaXBvZGk9Imh0dHA6Ly9zb2RpcG9kaS5zb3VyY2Vmb3JnZS5uZXQvRFREL3NvZGlwb2RpLTAuZHRkIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOmNjPSJodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9ucyMiIHhtbG5zOmlua3NjYXBlPSJodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy9uYW1lc3BhY2VzL2lua3NjYXBlIg0KCSB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAtMjAwIDk2MCA5NjAiDQoJIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAtMjAwIDk2MCA5NjAiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPHBvbHlnb24gaWQ9InBvbHlnb241IiBwb2ludHM9IjMyLDQxMi42IDM2Mi4xLDQxMi42IDM2Mi4xLDU3OCA1MjYuOCw1NzggNTI2LjgsMjc5LjEgMTk3LjMsMjc5LjEgNTI2LjgsLTUxLjEgMzYyLjEsLTUxLjEgDQoJMzIsMjc5LjEgIiBmaWxsPSJ3aGl0ZSIvPg0KPHBvbHlnb24gaWQ9InBvbHlnb243IiBwb2ludHM9IjU5Ny45LDExNC4yIDc2Mi43LC01MS4xIDU5Ny45LC01MS4xICIgZmlsbD0id2hpdGUiLz4NCjxwb2x5Z29uIGlkPSJwb2x5Z29uOSIgcG9pbnRzPSI3NjIuNywxMTQuMiA1OTcuOSwyNzkuMSA1OTcuOSw0NDMuOSA3NjIuNyw0NDMuOSA3NjIuNywyNzkuMSA5MjgsMTE0LjIgOTI4LC01MS4xIDc2Mi43LC01MS4xICIgZmlsbD0id2hpdGUiLz4NCjxwb2x5Z29uIGlkPSJwb2x5Z29uMTEiIHBvaW50cz0iOTI4LDI3OS4xIDc2Mi43LDQ0My45IDkyOCw0NDMuOSAiIGZpbGw9IndoaXRlIi8+DQo8L3N2Zz4NCg0K&label=school" alt="Education badge">
@@ -21,15 +20,13 @@
 
 <!--Skills Section-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp;
-<a href="https://git.io/typing-svg">
-	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&background=1B4BFF00&center=true&random=false&width=165&height=30&lines=My+Skills" alt="Typing SVG" />
-</a>
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp;
+<p align="center">
+	<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp;<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&background=1B4BFF00&center=true&random=false&width=165&height=30&lines=My+Skills" alt="Typing SVG" /></a><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp;
+</p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
 | Languages  | Backend | Tools |
-| ------------- |:-------------:|:-------------:|
+|:-------------:|:-------------:|:-------------:|
 | ![C](https://skillicons.dev/icons?i=c) | ![CSS](https://skillicons.dev/icons?i=css) | ![Docker](https://skillicons.dev/icons?i=docker) |
 | ![C++](https://skillicons.dev/icons?i=cpp) | ![HTML](https://skillicons.dev/icons?i=html) | ![Git](https://skillicons.dev/icons?i=git) |
 | ![Python](https://skillicons.dev/icons?i=python) | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![GitHub](https://skillicons.dev/icons?i=github) |
@@ -38,37 +35,6 @@
 | | ![Java](https://skillicons.dev/icons?i=java) | ![Discord](https://skillicons.dev/icons?i=discord) |
 | | ![Discord Bot](https://skillicons.dev/icons?i=bots) | ![AI](https://skillicons.dev/icons?i=ai) |
 | | ![AI](https://skillicons.dev/icons?i=ai) | |
-<br>
-
-<div align="center">
-	<div style="display: inline-block; margin: 20px; padding: 15px; border: 3px solid #4caf50; border-radius: 10px; background-color: #1f1f1f; transition: transform 0.3s;">
-		<p><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp;*Languages*</p>
-		<p align="center">
-			<a href="https://skillicons.dev">
-				<img src="https://skillicons.dev/icons?i=c,cpp,python" height="50" alt="Languages" />
-			</a>
-		</p>
-		<p><em>Mastering core languages like C, C++, Python.</em></p>
-	</div>
-	<div style="display: inline-block; margin: 20px; padding: 15px; border: 3px solid #ff5722; border-radius: 10px; background-color: #1f1f1f; transition: transform 0.3s;">
-		<p><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;*Back-End*</p>
-		<p align="center">
-			<a href="https://skillicons.dev">
-				<img src="https://skillicons.dev/icons?i=lua,java,discord,bots,ai" height="50" alt="Back-End" />
-			</a>
-		</p>
-		<p><em>Creating robust back-end systems.</em></p>
-	</div>
-	<div style="display: inline-block; margin: 20px; padding: 15px; border: 3px solid #ffc107; border-radius: 10px; background-color: #1f1f1f; transition: transform 0.3s;">
-		<p>*🛠️ Tools*</p>
-		<p align="center">
-			<a href="https://skillicons.dev">
-				<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,neovim" height="50" alt="Tools" />
-			</a>
-		</p>
-		<p><em>Leveraging tools like Docker, Git & VSCode.</em></p>
-	</div>
-</div>
 <br>
 
 
