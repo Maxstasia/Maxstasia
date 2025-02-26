@@ -6,7 +6,7 @@
 #    By: mstasiak <mstasiak@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/02/26 12:32:00 by mstasiak          #+#    #+#              #
-#    Updated: 2025/02/26 18:26:21 by mstasiak         ###   ########.fr        #
+#    Updated: 2025/02/26 18:31:57 by mstasiak         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -24,6 +24,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     strategy:
       fail-fast: false
       matrix:
@@ -54,4 +56,4 @@ jobs:
           git config --global user.name "Maxstasia"
           git add commit_graph.png
           git commit -m "Mise à jour automatique du graphique des commits"
-          git push https://${GH_PAT}@github.com/${{ github.repository }}.git main
+          git push "https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}.git" main
