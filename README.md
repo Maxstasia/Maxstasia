@@ -25,7 +25,6 @@
 
 
 <div align="center">
-
 	<div style="display: inline-block; margin: 20px; padding: 15px; border: 3px solid #4caf50; border-radius: 10px; background-color: #1f1f1f; transition: transform 0.3s;">
 	<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Languages***
 		<p align="center">
@@ -35,7 +34,6 @@
 		</p>
 		<p><em>Mastering core languages like C, C++, Python.</em></p>
 	</div>
-
 	<div style="display: inline-block; margin: 20px; padding: 15px; border: 3px solid #ff5722; border-radius: 10px; background-color: #1f1f1f; transition: transform 0.3s;">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***Back-End***
 		<p align="center">
@@ -45,7 +43,6 @@
 		</p>
 		<p><em>Creating robust back-end systems.</em></p>
 	</div>
-
 	<div style="display: inline-block; margin: 20px; padding: 15px; border: 3px solid #ffc107; border-radius: 10px; background-color: #1f1f1f; transition: transform 0.3s;">
 		<h3>🛠️ Tools</h3>
 		<p align="center">
@@ -55,7 +52,6 @@
 		</p>
 		<p><em>Leveraging tools like Docker, Git & VSCode.</em></p>
 	</div>
-
 </div>
 
 <br>
@@ -70,7 +66,6 @@
 </h1>
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start; padding: 20px;">
-
 	<!-- Left Side: 42 Projects -->
 	<div style="width: 45%; background-color: #1b1b1b; padding: 15px; border-radius: 10px; text-align: center;">
 		<h2>42 Projects</h2>
@@ -90,7 +85,6 @@
 			<a href="https://github.com/Maxstasia/tree/main/push_swap"><img src="https://github.com/Maxstasia/Maxstasia/blob/main/42_badges/push_swape.png" alt="Push_Swap Badge" width="120"></a>
 		</div>
 	</div>
-
 	<!-- Right Side: External Projects -->
 	<div style="width: 45%; background-color: #1b1b1b; padding: 15px; border-radius: 10px; text-align: center;">
 		<h2>External Projects</h2>
@@ -99,7 +93,6 @@
 		</div>
 	</div>
 </div>
-
 <br>
 
 <!--GitHub stats-->
