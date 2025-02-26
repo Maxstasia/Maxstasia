@@ -1,0 +1,37 @@
+name: Update GitHub Commit Graph
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Exécute le script chaque jour à minuit UTC
+  workflow_dispatch:  # Permet d'exécuter manuellement le workflow
+
+jobs:
+  update-graph:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🛠️ Cloner le dépôt
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: 📦 Installer les dépendances
+        run: |
+          sudo apt update
+          sudo apt install -y python3 python3-pip
+          pip3 install gitpython matplotlib numpy mpl_toolkits
+
+      - name: 📝 Générer le graphique 3D
+        run: python3 generate_graph.py
+
+      - name: 🚀 Commit et push de l'image
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add commit_graph.png
+          git commit -m "Mise à jour du commit graph 3D" || exit 0
+          git push https://${GH_PAT}@github.com/${{ github.repository }}.git main
