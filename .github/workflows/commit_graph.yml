@@ -1,14 +1,12 @@
-# This workflow will install Python dependencies, run tests and lint with a variety of Python versions
-# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
 # **************************************************************************** #
 #                                                                              #
 #                                                         :::      ::::::::    #
-#    update_graph.yml                                   :+:      :+:    :+:    #
+#    commit_graph.yml                                   :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
 #    By: mstasiak <mstasiak@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/02/26 12:32:00 by mstasiak          #+#    #+#              #
-#    Updated: 2025/02/26 14:45:45 by mstasiak         ###   ########.fr        #
+#    Updated: 2025/02/26 17:35:52 by mstasiak         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -50,7 +48,7 @@ jobs:
 
       - name: 🚀 Commit et push de l'image
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_PATH: ${{ secrets.GH_PATH }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"

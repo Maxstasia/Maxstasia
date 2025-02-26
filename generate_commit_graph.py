@@ -6,7 +6,7 @@
 #    By: mstasiak <mstasiak@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/02/26 12:32:07 by mstasiak          #+#    #+#              #
-#    Updated: 2025/02/26 17:10:46 by mstasiak         ###   ########.fr        #
+#    Updated: 2025/02/26 17:35:31 by mstasiak         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -19,9 +19,9 @@ from datetime import datetime, timedelta
 
 github_username = "Maxstasia"
 github_repo = "Maxstasia"
-github_token = os.getenv("GITHUB_TOKEN")
+github_token = os.getenv("GH_PATH")
 if not github_token:
-    raise ValueError("GITHUB_TOKEN n'est pas défini. Assurez-vous qu'il est configuré dans les secrets GitHub Actions.")
+    raise ValueError("GH_PATH n'est pas défini. Assurez-vous qu'il est configuré dans les secrets GitHub Actions.")
 
 # Récupérer les commits quotidiens sur 1 an
 def get_commit_counts():
