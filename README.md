@@ -26,7 +26,7 @@
 
 <div align="center">
 	<div style="display: inline-block; margin: 20px; padding: 15px; border: 3px solid #4caf50; border-radius: 10px; background-color: #1f1f1f; transition: transform 0.3s;">
-		<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp;Languages
+		<h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp;Languages</h3>
 		<p align="center">
 			<a href="https://skillicons.dev">
 				<img src="https://skillicons.dev/icons?i=c,cpp,python" height="50" alt="Languages" />
@@ -35,7 +35,7 @@
 		<p><em>Mastering core languages like C, C++, Python.</em></p>
 	</div>
 	<div style="display: inline-block; margin: 20px; padding: 15px; border: 3px solid #ff5722; border-radius: 10px; background-color: #1f1f1f; transition: transform 0.3s;">
-		<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;Back-End
+		<h3><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;Back-End</h3>
 		<p align="center">
 			<a href="https://skillicons.dev">
 				<img src="https://skillicons.dev/icons?i=lua,java,discord,bots,ai" height="50" alt="Back-End" />
