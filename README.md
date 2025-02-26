@@ -1,5 +1,5 @@
 <!--Banner-->
-![banner](https://github.com/)
+![banner](https://github.com/commit_graph.png)
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <br>
 
