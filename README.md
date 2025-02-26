@@ -106,7 +106,7 @@
 <p align="center">
 	<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 35px>
 	<a href="https://git.io/typing-svg">
-		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&background=1B4BFF00&center=true&vCenter=true&random=false&width=200&height=50&lines=lets+contribute+together!" alt="Typing SVG" />
+		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&background=1B4BFF00&center=true&vCenter=true&random=false&height=50&lines=lets+contribute+together!" alt="Typing SVG" />
 	</a>
 	<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 35px>
 </p>
