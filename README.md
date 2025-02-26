@@ -55,18 +55,18 @@
 
 *In Progress*
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/pipex"><img src="https://github.com/maxstasia/maxstasia/blob/main/42_badges/pipexn.png" alt="CPP Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/pipex"><img src="https://github.com/Maxstasia/Assets_Private/blob/main/42_badges/pipexn.png" alt="CPP Badge" width="120"></a>
 </div>
 <!-- Finished Projects -->
 
 *Finished*
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-	<a href="https://github.com/Maxstasia/tree/main/Libft"><img src="https://github.com/Maxstasia/Maxstasia/blob/main/42_badges/libfte.png" alt="Libft Badge" width="120"></a>
-	<a href="https://github.com/Maxstasia/tree/main/ft_printf"><img src="https://github.com/Maxstasia/Maxstasia/blob/main/42_badges/ft_printfe.png" alt="Ft_Printf Badge" width="120"></a>
-	<a href="https://github.com/Maxstasia/tree/main/get_next_line"><img src="https://github.com/Maxstasia/Maxstasia/blob/main/42_badges/get_next_linem.png" alt="Get Next Line Badge" width="120"></a>
-	<a href="https://github.com/Maxstasia/tree/main/Born2beRoot"><img src="https://github.com/Maxstasia/Maxstasia/blob/main/42_badges/born2beroote.png" alt="Born2BeRoot Badge" width="120"></a>
-	<a href="https://github.com/Maxstasia/tree/main/fractol"><img src="https://github.com/Maxstasia/Maxstasia/blob/main/42_badges/fract-olm.png" alt="Fractol Badge" width="120"></a>
-	<a href="https://github.com/Maxstasia/tree/main/push_swap"><img src="https://github.com/Maxstasia/Maxstasia/blob/main/42_badges/push_swape.png" alt="Push_Swap Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/tree/main/Libft"><img src="https://github.com/Maxstasia/Assets_Private/blob/main/42_badges/libfte.png" alt="Libft Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/tree/main/ft_printf"><img src="https://github.com/Maxstasia/Assets_Private/blob/main/42_badges/ft_printfe.png" alt="Ft_Printf Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/tree/main/get_next_line"><img src="https://github.com/Maxstasia/Assets_Private/blob/main/42_badges/get_next_linem.png" alt="Get Next Line Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/tree/main/Born2beRoot"><img src="https://github.com/Maxstasia/Assets_Private/blob/main/42_badges/born2beroote.png" alt="Born2BeRoot Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/tree/main/fractol"><img src="https://github.com/Maxstasia/Assets_Private/blob/main/42_badges/fract-olm.png" alt="Fractol Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/tree/main/push_swap"><img src="https://github.com/Maxstasia/Assets_Private/blob/main/42_badges/push_swape.png" alt="Push_Swap Badge" width="120"></a>
 </div>
 <br>
 <!--External Projects-->
@@ -97,7 +97,7 @@
 **📈 Statistiques de commits en 3D**
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
-![Graphique des commits](commit_graph.png)
+![Graphique des commits](https://github.com/Maxstasia/Assets_Private/blob/main/commit_graph.png)
 <br>
 
 

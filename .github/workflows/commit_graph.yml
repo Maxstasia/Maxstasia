@@ -6,7 +6,7 @@
 #    By: mstasiak <mstasiak@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/02/26 12:32:00 by mstasiak          #+#    #+#              #
-#    Updated: 2025/02/26 18:46:36 by mstasiak         ###   ########.fr        #
+#    Updated: 2025/02/26 19:03:06 by mstasiak         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -32,8 +32,15 @@ jobs:
         python-version: ["3.9", "3.10", "3.11", "3.12", "3.13"]
 
     steps:
-      - name: 🛠️ Cloner le dépôt
+      - name: 🛠️ Cloner le dépôt principal
         uses: actions/checkout@v4
+
+      - name: 🛠️ Cloner le dépôt privé contenant le script
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}  # 🔒 Stocker ton token GitHub dans les Secrets
+        run: |
+          git clone https://x-access-token:${GH_PAT}@github.com/Maxstasia/Assets_Private.git private_repo
+          mv private_repo/generate_commit_graph.py .
 
       - name: Set up Python ${{ matrix.python-version }}
         uses: actions/setup-python@v3
