@@ -1,5 +1,7 @@
 <!--Banner-->
-![banner](https://github.com/Maxstasia/Assets_private/blob/main/animate_wallpaper.gif)
+<p align="center">
+	<img src="https://github.com/Maxstasia/Assets_private/blob/main/animate_wallpaper.gif" alt="banner">
+</p>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <br>
 
