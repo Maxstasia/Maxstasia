@@ -6,7 +6,7 @@
 <br>
 <h1 align="center">
 	<a href="https://git.io/typing-svg">
-		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=D9F7F2&background=1B4BFF00&center=true&random=false&width=435&lines=Hi+there+!+I'm+Max+%F0%9F%91%8B%F0%9F%8F%BD;A+42+Paris+student+%F0%9F%A4%96;Bouh" alt="Typing SVG" />
+		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=1000&color=D9F7F2&background=1B4BFF00&center=true&random=false&width=435&lines=Hi+there+!+I'm+Max+%F0%9F%91%8B%F0%9F%8F%BD;A+42+Paris+student+%F0%9F%A4%96;Bouh" alt="Typing SVG" />
 	</a>
 	
 <p align="center">
@@ -17,15 +17,15 @@
 
 
 <!--Skills Section-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<div align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+<h1 align="center">
 	<img src = "https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Comet.png" width = 30px>
 	<a href="https://git.io/typing-svg">
 		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=190&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=165&height=30&lines=My+Skills" alt="Typing SVG" />
 	</a>
 	<img src = "https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Comet.png" width = 30px>
-</div>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</h1>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
 
 <div align="center">
@@ -39,7 +39,7 @@
 		<p><em>Mastering core languages like C, C++, Python.</em></p>
 	</div>
 	<div style="display: inline-block; margin: 20px; padding: 15px; border: 3px solid #ff5722; border-radius: 10px; background-color: #1f1f1f; transition: transform 0.3s;">
-		<h3><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;Back-End</h3>
+		<h3><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>Back-End</h3>
 		<p align="center">
 			<a href="https://skillicons.dev">
 				<img src="https://skillicons.dev/icons?i=lua,java,discord,bots,ai" height="50" alt="Back-End" />
@@ -61,7 +61,7 @@
 <br>
 
 <!--Projects-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <div align="center">
 	<img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width = 30px>
 	<a href="https://git.io/typing-svg">
@@ -69,7 +69,7 @@
 	</a>
 	<img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width = 30px>
 </div>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start; padding: 20px;">
 	<!-- Left Side: 42 Projects -->
@@ -103,7 +103,7 @@
 
 
 <!--GitHub stats-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <div align="center">
 	<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 	<a href="https://git.io/typing-svg">
@@ -111,7 +111,7 @@
 	</a>
 	<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 </div>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=Maxstasia&show_icons=true&theme=radical" alt="Max's GitHub Stats" height="180em" style="margin-right: 30px;">
@@ -120,7 +120,7 @@
 
 <img src="https://raw.githubusercontent.com/Maxstasia/Maxstasia/output/snake.svg" alt="Snake animation" />
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
 	<img src="https://github.com/user-attachments/assets/3dcdd41e-3ba5-4ea2-8c0c-eee23b80f43b" width="30">
 	<img alt="visitors counter" src="https://profile-counter.glitch.me/Maxstasia/count.svg">
