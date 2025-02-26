@@ -6,7 +6,7 @@
 #    By: mstasiak <mstasiak@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/02/26 12:32:07 by mstasiak          #+#    #+#              #
-#    Updated: 2025/02/26 18:38:05 by mstasiak         ###   ########.fr        #
+#    Updated: 2025/02/26 18:43:56 by mstasiak         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -35,15 +35,23 @@ def generate_wireframe_grid(size=10, commit_multiplier=1):
     return X, Y, Z
 
 def plot_wireframe(X, Y, Z):
-    fig = plt.figure(figsize=(8, 6), facecolor='black')
-    ax = fig.add_subplot(111, projection='3d', facecolor='black')
+    fig = plt.figure(figsize=(8, 6))
+    ax = fig.add_subplot(111, projection='3d')
+
+    # Définir le fond en noir
+    ax.set_facecolor("black")
+    fig.patch.set_facecolor("black")
+
+    # Désactiver les plans de fond
+    ax.xaxis.pane.fill = False
+    ax.yaxis.pane.fill = False
+    ax.zaxis.pane.fill = False
+
     ax.set_xticks([])
     ax.set_yticks([])
     ax.set_zticks([])
     ax.grid(False)
-    ax.w_xaxis.pane.set_color((0, 0, 0, 1))
-    ax.w_yaxis.pane.set_color((0, 0, 0, 1))
-    ax.w_zaxis.pane.set_color((0, 0, 0, 1))
+    
     ax.plot_wireframe(X, Y, Z, color='#00FF00')  # Fil de fer vert
     plt.show()
 
