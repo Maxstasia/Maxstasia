@@ -99,7 +99,7 @@
 **📈 Statistiques de commits en 3D**
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
-![Graphique des commits](https://github.com/Maxstasia/Maxstasia/blob/main/commit_graph.png)
+![Graphique des commits](https://github.com/Maxstasia/Maxstasia/blob/main/commit_graph.html)
 <br>
 
 
