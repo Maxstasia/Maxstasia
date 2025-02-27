@@ -6,7 +6,7 @@
 #    By: mstasiak <mstasiak@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/02/26 12:32:00 by mstasiak          #+#    #+#              #
-#    Updated: 2025/02/27 15:28:54 by mstasiak         ###   ########.fr        #
+#    Updated: 2025/02/27 15:30:24 by mstasiak         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -52,6 +52,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install plotly pandas
+          pip install -U kaleido
         # pip install gitpython requests numpy matplotlib
 
       - name: 📝 Générer le graphique 3D
