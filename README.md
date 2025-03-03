@@ -99,9 +99,14 @@
 **📈 Statistiques de commits en 3D**
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
-![Graphique des commits](https://github.com/Maxstasia/Maxstasia/blob/main/commit_graph.png)
+![Graphique des commits](https://github.com/Maxstasia/Assets_Private/blob/main/Images/Graph/commit_graph.png)
 <br>
 
+![Cube Rotatif](https://github.com/Maxstasia/Assets_Private/blob/main/Images/Cube/cube_rotation.gif)
+
+<p align="center">
+	<img src="https://github.com/Maxstasia/Assets_Private/blob/main/Images/cube_rotation.gif" alt="cube">
+</p>
 
 <!--Contact-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
