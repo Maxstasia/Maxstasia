@@ -8,11 +8,11 @@
 
 <!-- Heading -->
 <p align="center">
-	<img src="https://github.com/Maxstasia/Assets_Private/blob/main/Images/cube_rotation.gif" width ="30">&nbsp;
+	<img src="https://github.com/Maxstasia/Assets_Private/blob/main/Images/Cube/cube_rotation.gif" width ="30">&nbsp;
 	<a href="https://git.io/typing-svg">
 		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=D9F7F2&background=1B4BFF00&center=true&vCenter=true&random=false&width=500&lines=Hi+there+!+I'm+Max+%F0%9F%91%8B%F0%9F%8F%BD;A+42+Paris+student+%F0%9F%A4%96;Bouh" alt="Typing SVG" />
 	</a>
-	<img src="https://github.com/Maxstasia/Assets_Private/blob/main/Images/cube_rotation.gif" width ="30">&nbsp;
+	<img src="https://github.com/Maxstasia/Assets_Private/blob/main/Images/Cube/cube_rotation.gif" width ="30">&nbsp;
 </p>
 <p align="center">
 	<a href="https://42.fr" target="_blank">
@@ -102,7 +102,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
 <p align="center">
-	<a href="https://maxstasia.github.io/Assets_Private/">
+	<a href="https://maxstasia.github.io/Assets_Private/" target="_blank" rel="noopener noreferrer">
 		<img src="https://github.com/Maxstasia/Assets_Private/blob/main/Images/Graph/commit_graph.png" />
 	</a>
 </p>
