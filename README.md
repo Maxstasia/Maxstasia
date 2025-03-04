@@ -8,11 +8,9 @@
 
 <!-- Heading -->
 <p align="center">
-	<img src="https://github.com/Maxstasia/Assets_Private/blob/main/Images/Cube/cube_rotation.gif" width ="60">&nbsp;
 	<a href="https://git.io/typing-svg">
 		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=D9F7F2&background=1B4BFF00&center=true&vCenter=true&random=false&width=500&lines=Hi+there+!+I'm+Max+%F0%9F%91%8B%F0%9F%8F%BD;A+42+Paris+student+%F0%9F%A4%96;Bouh" alt="Typing SVG" />
 	</a>
-	<img src="https://github.com/Maxstasia/Assets_Private/blob/main/Images/Cube/cube_rotation.gif" width ="60">&nbsp;
 </p>
 <p align="center">
 	<a href="https://42.fr" target="_blank">
@@ -111,11 +109,11 @@
 <!--Contact-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <p align="center">
-	<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 35px>
+	<img src="https://github.com/Maxstasia/Assets_Private/blob/main/Images/Cube/cube_rotation.gif" width ="60">&nbsp;
 	<a href="https://git.io/typing-svg">
 		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&background=1B4BFF00&center=true&vCenter=true&random=false&height=50&lines=lets+contribute+together!" alt="Typing SVG" />
 	</a>
-	<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 35px>
+	<img src="https://github.com/Maxstasia/Assets_Private/blob/main/Images/Cube/cube_rotation.gif" width ="60">&nbsp;
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 Feel free to submit issues, or just contact me if you want to collaborate on a project. Together we can build amazing things. 🚀<br>
