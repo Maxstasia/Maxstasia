@@ -1,6 +1,6 @@
 <!--Banner-->
 <p align="center">
-	<img src="https://github.com/Maxstasia/Assets_Private/blob/main/Images/animate_wallpaper.gif" alt="banner">
+	<img src="https://github.com/Maxstasia/Assets/blob/main/Images/animate_wallpaper.gif" alt="banner">
 </p>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <br>
@@ -57,18 +57,18 @@
 
 *In Progress*
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/pipex"><img src="https://github.com/Maxstasia/Assets_Private/blob/main/42_badges/pipexn.png" alt="CPP Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/pipex"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/pipexn.png" alt="CPP Badge" width="120"></a>
 </div>
 <!-- Finished Projects -->
 
 *Finished*
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-	<a href="https://github.com/Maxstasia/tree/main/Libft"><img src="https://github.com/Maxstasia/Assets_Private/blob/main/42_badges/libfte.png" alt="Libft Badge" width="120"></a>
-	<a href="https://github.com/Maxstasia/tree/main/ft_printf"><img src="https://github.com/Maxstasia/Assets_Private/blob/main/42_badges/ft_printfe.png" alt="Ft_Printf Badge" width="120"></a>
-	<a href="https://github.com/Maxstasia/tree/main/get_next_line"><img src="https://github.com/Maxstasia/Assets_Private/blob/main/42_badges/get_next_linem.png" alt="Get Next Line Badge" width="120"></a>
-	<a href="https://github.com/Maxstasia/tree/main/Born2beRoot"><img src="https://github.com/Maxstasia/Assets_Private/blob/main/42_badges/born2beroote.png" alt="Born2BeRoot Badge" width="120"></a>
-	<a href="https://github.com/Maxstasia/tree/main/fractol"><img src="https://github.com/Maxstasia/Assets_Private/blob/main/42_badges/fract-olm.png" alt="Fractol Badge" width="120"></a>
-	<a href="https://github.com/Maxstasia/tree/main/push_swap"><img src="https://github.com/Maxstasia/Assets_Private/blob/main/42_badges/push_swape.png" alt="Push_Swap Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/tree/main/Libft"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/libfte.png" alt="Libft Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/tree/main/ft_printf"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/ft_printfe.png" alt="Ft_Printf Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/tree/main/get_next_line"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/get_next_linem.png" alt="Get Next Line Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/tree/main/Born2beRoot"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/born2beroote.png" alt="Born2BeRoot Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/tree/main/fractol"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/fract-olm.png" alt="Fractol Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/tree/main/push_swap"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/push_swape.png" alt="Push_Swap Badge" width="120"></a>
 </div>
 <br>
 <!--External Projects-->
@@ -100,8 +100,8 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
 <p align="center">
-	<a href="https://maxstasia.github.io/Assets_Private/" target="_blank" rel="noopener noreferrer">
-		<img src="https://github.com/Maxstasia/Assets_Private/blob/main/Images/Graph/commit_graph.png" />
+	<a href="https://maxstasia.github.io/Assets/" target="_blank" rel="noopener noreferrer">
+		<img src="https://github.com/Maxstasia/Assets/blob/main/Images/Graph/commit_graph.png" />
 	</a>
 </p>
 <br>
@@ -109,11 +109,11 @@
 <!--Contact-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <p align="center">
-	<img src="https://github.com/Maxstasia/Assets_Private/blob/main/Images/Cube/cube_rotation.gif" width ="60">&nbsp;
+	<img src="https://github.com/Maxstasia/Assets/blob/main/Images/Cube/cube_rotation.gif" width ="60">&nbsp;
 	<a href="https://git.io/typing-svg">
 		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&background=1B4BFF00&center=true&vCenter=true&random=false&height=50&lines=lets+contribute+together!" alt="Typing SVG" />
 	</a>
-	<img src="https://github.com/Maxstasia/Assets_Private/blob/main/Images/Cube/cube_rotation.gif" width ="60">&nbsp;
+	<img src="https://github.com/Maxstasia/Assets/blob/main/Images/Cube/cube_rotation.gif" width ="60">&nbsp;
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 Feel free to submit issues, or just contact me if you want to collaborate on a project. Together we can build amazing things. 🚀<br>
