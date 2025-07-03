@@ -58,7 +58,6 @@
 *In Progress*
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
 	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/minishell"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/minishelln.png" alt="CPP Badge" width="120"></a>
-	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/philosophers"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/philosophersn.png" alt="CPP Badge" width="120"></a>
 </div>
 <!-- Finished Projects -->
 
@@ -70,7 +69,8 @@
 	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/Born2beRoot"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/born2beroote.png" alt="Born2BeRoot Badge" width="120"></a>
 	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/fractol"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/fract-olm.png" alt="Fractol Badge" width="120"></a>
 	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/push_swap"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/push_swape.png" alt="Push_Swap Badge" width="120"></a>
-	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/pipex"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/pipexm.png" alt="CPP Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/pipex"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/pipexm.png" alt="Pipex Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/philosophers"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/philosopherse.png" alt="Philosophers Badge" width="120"></a>
 </div>
 <br>
 <!--External Projects-->
