@@ -130,7 +130,7 @@ Feel free to submit issues, or just contact me if you want to collaborate on a p
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
 	<img src="https://github.com/user-attachments/assets/3dcdd41e-3ba5-4ea2-8c0c-eee23b80f43b" width = 35px>
-	<img alt="visitors counter" src="https://profile-counter.glitch.me/Maxstasia/count.svg">
+	<img alt="visitors counter" src="https://visitor-badge.laobi.icu/badge?page_id=Maxstasia&left_color=purple&right_color=green&left_text=Visitors%20Counter">
 	<img src="https://github.com/user-attachments/assets/3dcdd41e-3ba5-4ea2-8c0c-eee23b80f43b" width = 35px>
 </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
