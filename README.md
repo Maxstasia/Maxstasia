@@ -57,23 +57,23 @@
 
 *In Progress*
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/CPP"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/cppn.png" alt="CPP Badge" width="120"></a>
-	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/Cub3D"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/cub3dn.png" alt="CPP Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/Rank%2004/CPP"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/cppn.png" alt="CPP Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/Rank%2004/Cub3D"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/cub3dn.png" alt="CPP Badge" width="120"></a>
 </div>
 <!-- Finished Projects -->
 
 *Finished*
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/Libft"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/libfte.png" alt="Libft Badge" width="120"></a>
-	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/ft_printf"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/ft_printfe.png" alt="Ft_Printf Badge" width="120"></a>
-	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/get_next_line"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/get_next_linem.png" alt="Get Next Line Badge" width="120"></a>
-	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/Born2beRoot"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/born2beroote.png" alt="Born2BeRoot Badge" width="120"></a>
-	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/fractol"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/fract-olm.png" alt="Fractol Badge" width="120"></a>
-	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/push_swap"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/push_swape.png" alt="Push_Swap Badge" width="120"></a>
-	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/pipex"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/pipexm.png" alt="Pipex Badge" width="120"></a>
-	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/Philosophers"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/philosopherse.png" alt="Philosophers Badge" width="120"></a>
-	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/minishell"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/minishelle.png" alt="CPP Badge" width="120"></a>
-	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/NetPractice"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/netpracticee.png" alt="CPP Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/Rank%2000/Libft"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/libfte.png" alt="Libft Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/Rank%2001/ft_printf"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/ft_printfe.png" alt="Ft_Printf Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/Rank%2001/get_next_line"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/get_next_linem.png" alt="Get Next Line Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/Rank%2001/Born2beRoot"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/born2beroote.png" alt="Born2BeRoot Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/Rank%2002/fractol"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/fract-olm.png" alt="Fractol Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/Rank%2002/push_swap"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/push_swape.png" alt="Push_Swap Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/Rank%2002/pipex"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/pipexm.png" alt="Pipex Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/Rank%2003/Philosophers"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/philosopherse.png" alt="Philosophers Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/Rank%2003/minishell"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/minishelle.png" alt="CPP Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/Rank%2004/NetPractice"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/netpracticee.png" alt="CPP Badge" width="120"></a>
 </div>
 <br>
 <!--External Projects-->
