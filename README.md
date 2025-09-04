@@ -72,7 +72,7 @@
 	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/Rank%2002/pipex"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/pipexm.png" alt="Pipex Badge" width="120"></a>
 	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/Rank%2003/Philosophers"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/philosopherse.png" alt="Philosophers Badge" width="120"></a>
 	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/Rank%2003/minishell"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/minishelle.png" alt="CPP Badge" width="120"></a>
-	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/Rank%2004/NetPractice"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/netpracticee.png" alt="CPP Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/Rank%2004/NetPractice"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/netpracticem.png" alt="CPP Badge" width="120"></a>
 	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/Rank%2004/CPP"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/cppm.png" alt="CPP Badge" width="120"></a>
 </div>
 <br>
