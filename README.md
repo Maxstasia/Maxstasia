@@ -57,9 +57,7 @@
 
 *In Progress*
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/Rank%2005/CPP"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/cppn.png" alt="CPP Badge" width="120"></a>
-	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/Rank%2005/Inception"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/inceptionn.png" alt="Inception Badge" width="120"></a>
-	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/Rank%2005/Webserv"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/webservn.png" alt="Wenserv Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/Rank%2006/ft_transcendence"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/ft_transcendencen.png" alt="CPP Badge" width="120"></a>
 </div>
 <!-- Finished Projects -->
 
@@ -77,6 +75,9 @@
 	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/Rank%2004/NetPractice"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/netpracticem.png" alt="NetPractice Badge" width="120"></a>
 	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/Rank%2004/CPP"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/cppm.png" alt="CPP Badge" width="120"></a>
 	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/Rank%2004/Cub3D"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/cub3dm.png" alt="Cub3D Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/Rank%2005/CPP"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/cppm.png" alt="CPP Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/Rank%2005/Inception"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/inceptione.png" alt="Inception Badge" width="120"></a>
+	<a href="https://github.com/Maxstasia/Tronc_Commun/tree/main/Rank%2005/Webserv"><img src="https://github.com/Maxstasia/Assets/blob/main/42_badges/webservm.png" alt="Wenserv Badge" width="120"></a>
 </div>
 <br>
 <!--External Projects-->
