@@ -27,16 +27,14 @@
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
-| Languages  | Backend | Tools |
-|:-------------:|:-------------:|:-------------:|
-| ![C](https://skillicons.dev/icons?i=c) | ![CSS](https://skillicons.dev/icons?i=css) | ![Docker](https://skillicons.dev/icons?i=docker) |
-| ![C++](https://skillicons.dev/icons?i=cpp) | ![HTML](https://skillicons.dev/icons?i=html) | ![Git](https://skillicons.dev/icons?i=git) |
-| ![Python](https://skillicons.dev/icons?i=python) | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![GitHub](https://skillicons.dev/icons?i=github) |
-| | ![PHP](https://skillicons.dev/icons?i=php) | ![VS Code](https://skillicons.dev/icons?i=vscode) |
-| | ![Javascript](https://skillicons.dev/icons?i=javascript) | ![NeoVim](https://skillicons.dev/icons?i=neovim) |
-| | ![Java](https://skillicons.dev/icons?i=java) | ![Discord](https://skillicons.dev/icons?i=discord) |
-| | ![Discord Bot](https://skillicons.dev/icons?i=bots) | ![AI](https://skillicons.dev/icons?i=ai) |
-| | ![AI](https://skillicons.dev/icons?i=ai) | |
+| Languages | Tools |
+|:-------------:|:-------------:|
+| ![C](https://skillicons.dev/icons?i=c) | ![Docker](https://skillicons.dev/icons?i=docker) |
+| ![C++](https://skillicons.dev/icons?i=cpp) | ![Git](https://skillicons.dev/icons?i=git) |
+| ![Python](https://skillicons.dev/icons?i=python) | ![GitHub](https://skillicons.dev/icons?i=github) |
+| ![Javascript](https://skillicons.dev/icons?i=javascript) | ![VS Code](https://skillicons.dev/icons?i=vscode) |
+| | ![AI](https://skillicons.dev/icons?i=ai) |
+| | ![Discord](https://skillicons.dev/icons?i=discord) |
 <br>
 
 
